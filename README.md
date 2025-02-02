@@ -4,6 +4,7 @@ A streamlit application for extracting metadata especially for CRE(Commercial Re
 # Live App
 [Go to the live app](http://20.14.104.147:8080/)
 If user uploads contracts, the app extract metadata customized for CRE contracts.
+
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/edd0c1e5-674d-4e9a-ae81-160b445a96e6" />
 
 # License
